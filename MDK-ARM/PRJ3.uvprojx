@@ -7,7 +7,7 @@
 
   <Targets>
     <Target>
-      <TargetName>PRJ3</TargetName>
+      <TargetName>prj3</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
       <pCCUsed>5060960::V5.06 update 7 (build 960)::.\ARMCC</pCCUsed>
@@ -518,7 +518,7 @@
       <component Cclass="CMSIS" Cgroup="CORE" Cvendor="ARM" Cversion="4.3.0" condition="CMSIS Core">
         <package name="CMSIS" schemaVersion="1.3" url="http://www.keil.com/pack/" vendor="ARM" version="4.5.0"/>
         <targetInfos>
-          <targetInfo name="PRJ3"/>
+          <targetInfo name="prj3"/>
         </targetInfos>
       </component>
     </components>

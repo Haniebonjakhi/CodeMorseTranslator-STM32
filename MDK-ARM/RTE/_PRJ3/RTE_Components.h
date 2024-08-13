@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'PRJ3' 
- * Target:  'PRJ3' 
+ * Project: 'prj3' 
+ * Target:  'prj3' 
  */
 
 #ifndef RTE_COMPONENTS_H

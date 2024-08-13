@@ -193,7 +193,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-		
+
     /* USER CODE BEGIN 3 */
 		
 		if ((HAL_GPIO_ReadPin(SW2_GPIO_Port, SW2_Pin) == GPIO_PIN_RESET) && (check == 0) ){
@@ -223,8 +223,8 @@ int main(void)
 	
   /* USER CODE END 3 */
 }
+	}
 
-}
 
 /**
   * @brief System Clock Configuration
